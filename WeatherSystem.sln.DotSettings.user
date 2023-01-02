@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9197fcd5_002D83c6_002D44ab_002Daf93_002Ded003f7870c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Create_InputCalculatedStatsInstance_CalledAddMethodOfDBSetWithCalculatedStatsInstance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F5CE880-DD62-4E21-996D-4807A837FE65::net5.0::DAL.Tests.BaseRepositoryUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.CalcStatsServiceTests.Ctor_InputNull_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.CalcStatsServiceTests.GetStreets_UserIsAdmin_ThrowMethodAccessException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.CalcStatsServiceTests.GetStatss_StreetFromDAL_CorrectMappingToStreetDTO&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.CalcStatsServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.ExportServiceTests.Instance_UseInstance_EqualResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.ExportServiceTests.Instance_GetInstance_NotNullResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.ExportServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.CompositeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.OrderServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.ObserverTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.TemplateMethodTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.MementoTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.ChainOfResponsibilityTest.CoR_StartChain&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B363241-14CE-4645-A6C4-FEB503D64C44::net5.0::BLL.Tests.ChainOfResponsibilityTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
